@@ -1,0 +1,122 @@
+[
+    {
+        "num_tcn_block": 2,
+        "num_filter": 32,
+        "accuracy": 0.827
+    },
+    {
+        "num_tcn_block": 2,
+        "num_filter": 64,
+        "accuracy": 0.803
+    },
+    {
+        "num_tcn_block": 2,
+        "num_filter": 128,
+        "accuracy": 0.815
+    },
+    {
+        "num_tcn_block": 2,
+        "num_filter": 256,
+        "accuracy": 0.704
+    },
+    {
+        "num_tcn_block": 2,
+        "num_filter": 512,
+        "accuracy": 0.840
+    },
+    {
+        "num_tcn_block": 4,
+        "num_filter": 32,
+        "accuracy": 0.815
+    },
+    {
+        "num_tcn_block": 4,
+        "num_filter": 64,
+        "accuracy": 0.778
+    },
+    {
+        "num_tcn_block": 4,
+        "num_filter": 128,
+        "accuracy": 0.802
+    },
+    {
+        "num_tcn_block": 4,
+        "num_filter": 256,
+        "accuracy": 0.778
+    },
+    {
+        "num_tcn_block": 4,
+        "num_filter": 512,
+        "accuracy": 0.790
+    },
+    {
+        "num_tcn_block": 8,
+        "num_filter": 32,
+        "accuracy": 0.765
+    },
+    {
+        "num_tcn_block": 8,
+        "num_filter": 64,
+        "accuracy": 0.765
+    },
+    {
+        "num_tcn_block": 8,
+        "num_filter": 128,
+        "accuracy": 0.802
+    },
+    {
+        "num_tcn_block": 8,
+        "num_filter": 256,
+        "accuracy": 0.506
+    },
+    {
+        "num_tcn_block": 2,
+        "num_filter": 1024,
+        "accuracy": 0.7901
+    },
+    {
+        "num_tcn_block": 4,
+        "num_filter": 1024,
+        "accuracy": 0.7778
+    },
+    {
+        "num_tcn_block": 8,
+        "num_filter": 512,
+        "accuracy": 0.7531
+    },
+    {
+        "num_tcn_block": 8,
+        "num_filter": 1024,
+        "accuracy": 0.7531
+    },
+    {
+        "num_tcn_block": 16,
+        "num_filter": 32,
+        "accuracy": 0.6049
+    },
+    {
+        "num_tcn_block": 16,
+        "num_filter": 64,
+        "accuracy": 0.6049
+    },
+    {
+        "num_tcn_block": 16,
+        "num_filter": 128,
+        "accuracy": 0.3951
+    },
+    {
+        "num_tcn_block": 16,
+        "num_filter": 256,
+        "accuracy": 0.3951
+    },
+    {
+        "num_tcn_block": 16,
+        "num_filter": 512,
+        "accuracy": 0.3951
+    },
+    {
+        "num_tcn_block": 16,
+        "num_filter": 1024,
+        "accuracy": 0.3951
+    }
+]
