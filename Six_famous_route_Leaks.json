@@ -1,0 +1,62 @@
+[
+    {
+        "event_name": "Indosat",
+        "event_start_time": "2014-04-02 18:25:00",
+        "triplet": [
+            "a",
+            4761,
+            "b"
+        ],
+        "asleaker": 4761
+    },
+    {
+        "event_name": "TM",
+        "event_start_time": "2015-06-12 08:43:00",
+        "triplet": [
+            "a",
+            4788,
+            "b"
+        ],
+        "asleaker": 4788
+    },
+    {
+        "event_name": "AWS",
+        "event_start_time": "2016-04-22 17:10:00",
+        "triplet": [
+            "a",
+            200759,
+            "b"
+        ],
+        "asleaker": 200759
+    },
+    {
+        "event_name": "TTNet",
+        "event_start_time": "2004-12-24 09:20:00",
+        "triplet": [
+            "a",
+            9121,
+            "b"
+        ],
+        "asleaker": 9121
+    },
+    {
+        "event_name": "CCSFL",
+        "event_start_time": "2020-07-21 09:15:00",
+        "triplet": [
+            "a",
+            264462,
+            "b"
+        ],
+        "asleaker": 264462
+    },
+    {
+        "event_name": "VIL",
+        "event_start_time": "2021-04-16 13:50:00",
+        "triplet": [
+            "a",
+            55410,
+            "b"
+        ],
+        "asleaker": 55410
+    }
+]
