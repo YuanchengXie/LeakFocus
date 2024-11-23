@@ -1,15 +1,5 @@
 [
     {
-        "event_name": "Indosat",
-        "event_start_time": "2014-04-02 18:25:00",
-        "triplet": [
-            "a",
-            4761,
-            "b"
-        ],
-        "asleaker": 4761
-    },
-    {
         "event_name": "TM",
         "event_start_time": "2015-06-12 08:43:00",
         "triplet": [
